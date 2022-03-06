@@ -1,0 +1,50 @@
+[
+  {
+    "titulo": "Regla",
+    "precio": 25.3,
+    "web": "url2",
+    "id": 1
+  },
+  {
+    "titulo": "Regla",
+    "precio": 25.3,
+    "web": "url2",
+    "id": 2
+  },
+  {
+    "titulo": "Regla",
+    "precio": 25.3,
+    "web": "url2",
+    "id": 3
+  },
+  {
+    "titulo": "Regla",
+    "precio": 25.3,
+    "web": "url2",
+    "id": 4
+  },
+  {
+    "titulo": "Regla",
+    "precio": 25.3,
+    "web": "url2",
+    "id": 5
+  },
+  {
+    "titulo": "Regla",
+    "precio": 25.3,
+    "web": "url2",
+    "id": 6
+  },
+  {
+    "titulo": "Regla",
+    "precio": 25.3,
+    "web": "url2",
+    "id": 7
+  },
+  {
+    "titulo": "Regla",
+    "precio": 25.3,
+    "web": "url2",
+    "id": 8
+  }
+]
