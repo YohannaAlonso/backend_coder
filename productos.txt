@@ -46,5 +46,11 @@
     "precio": 25.3,
     "web": "url2",
     "id": 8
+  },
+  {
+    "titulo": "Regla",
+    "precio": 25.3,
+    "web": "url2",
+    "id": 9
   }
 ]
