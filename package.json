@@ -1,0 +1,19 @@
+{
+  "name": "backend-yohanna-alonso",
+  "version": "1.0.0",
+  "description": "Proyecto backend yohanna alonso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo\\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YohannaAlonso/backend_coder.git"
+  },
+  "author": "Yohanna Alonso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YohannaAlonso/backend_coder/issues"
+  },
+  "homepage": "https://github.com/YohannaAlonso/backend_coder#readme"
+}
