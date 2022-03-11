@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/YohannaAlonso/backend_coder/issues"
   },
-  "homepage": "https://github.com/YohannaAlonso/backend_coder#readme"
+  "homepage": "https://github.com/YohannaAlonso/backend_coder#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
